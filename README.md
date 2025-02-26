@@ -1,2 +1,2 @@
 # ByteLink
-url shoprtener in golang
+url shortener in golang
